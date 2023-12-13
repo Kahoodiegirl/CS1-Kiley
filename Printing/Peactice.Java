@@ -1,6 +1,6 @@
 class Hi
 {
-   Public static void main (String args[])
+   Public static void main (String args[]);
     {
         system.out.print ("Welcome");
         system.out.print ("Kiley");
